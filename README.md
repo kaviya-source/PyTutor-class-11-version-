@@ -43,7 +43,7 @@ No external libraries are required.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/kaviya-source/PyTutor.git
+https://github.com/kaviya-source/PyTutor-class-11-version-.git
 ```
 
 2. Navigate to the project folder:
@@ -55,7 +55,7 @@ cd PyTutor
 3. Run the program:
 
 ```bash
-python "pyTutor (by Kaviya, Girish, Sai Karthick) (6).py"
+python "pyTutor (class 11 edition).py"
 ```
 
 > **Note:** Make sure Python 3 is installed on your system before running the program.
