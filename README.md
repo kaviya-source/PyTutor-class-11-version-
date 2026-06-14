@@ -1,5 +1,11 @@
 # 📚 PyTutor – Grade 11 Computer Science Practice Program
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Beginner Friendly](https://img.shields.io/badge/Beginner-Friendly-brightgreen)
+![Educational Project](https://img.shields.io/badge/Education-Computer%20Science-blueviolet)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Maintained](https://img.shields.io/badge/Maintained-Yes-success)
+![GitHub stars](https://img.shields.io/github/stars/kaviya-source/pyTutor?style=social)
 PyTutor is a simple Python-based learning program created to help **Grade 11 Computer Science students** understand and practice their syllabus in an interactive way.
 
 The project is built using **basic Python concepts taught in the Grade 12 Computer Science curriculum**, making it easy to understand, modify, and learn from.
