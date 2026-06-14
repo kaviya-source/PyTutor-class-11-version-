@@ -40,11 +40,26 @@ No external libraries are required.
 
 ## 🚀 How to Run
 
-1. Clone the repository
+1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/kaviya-source/PyTutor.git
 ```
+
+2. Navigate to the project folder:
+
+```bash
+cd PyTutor
+```
+
+3. Run the program:
+
+```bash
+python "pyTutor (by Kaviya, Girish, Sai Karthick) (6).py"
+```
+
+> **Note:** Make sure Python 3 is installed on your system before running the program.
+
 ## 👨‍🎓 Who is this for?
 -Grade 11 Computer Science students
 -Beginners learning Python
@@ -59,9 +74,7 @@ git clone https://github.com/your-username/your-repository.git
 -Question database expansion
 
 ## 🤝 Contributions
-
 Suggestions and improvements are welcome! Feel free to fork the repository and submit a pull request.
 
 ## ⭐ Support
-
 If you found this project helpful, consider giving it a ⭐ on GitHub. It motivates students and developers to build more educational projects.
